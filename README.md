@@ -7,6 +7,12 @@ We retraine the YOLO-series detection framework on the ego-object dataset in ord
 ## How to use it
 
 
+1. Download the pretrained YOLO: 
+The pretrained model is putted in: https://drive.google.com/drive/folders/1j6z27hA8vNA_oCB8aZcYrNG2JDFEJrlu?usp=drive_link , please download the pretrained model (last.pt or best.pt).
+
+
+2. Run with: python detect.py --weights best.pt --source $Your Image$
+
 
 
 ## Some Experimental results
