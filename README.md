@@ -5,6 +5,8 @@ We retraine the YOLO-series detection framework on the ego-object dataset in ord
 3. Reset all the data into a COCO format from detron2 format.
 Here is the mAP-50 results without pretrained YOLOv5 and pretrained YOLOv5:
 <img width="629" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/2e1d292c-0d23-4591-a886-ccd7ba5579b1">
+
+
 Moreover, we show the real-world (real headset videos) comparison results for reference:
 <img width="892" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/896b6aba-2609-4be2-97ce-1441aa04efe8">
 
