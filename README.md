@@ -7,7 +7,7 @@ Here is the mAP-50 results without pretrained YOLOv5 and pretrained YOLOv5:
 <img width="629" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/2e1d292c-0d23-4591-a886-ccd7ba5579b1">
 
 
-##Moreover, we show the val-set comparison results for reference:##
+## Moreover, we show the val-set comparison results for reference:
 
 
 The pretrained results:
