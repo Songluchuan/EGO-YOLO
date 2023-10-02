@@ -23,7 +23,10 @@ The origin YOLO results:
 *Moreover, we show the real-world (real headset videos) comparison results for reference:*
 
 
+
 The pretrained results:
+
+
 <img width="844" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/f9c613dd-19cb-424e-a63c-5103ba2f0feb">
 
 
