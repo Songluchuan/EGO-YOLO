@@ -13,3 +13,6 @@ Here is the mAP-50 results without pretrained YOLOv5 and pretrained YOLOv5:
 The pretrained results:
 <img width="892" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/896b6aba-2609-4be2-97ce-1441aa04efe8">
 
+
+The origin YOLO results:
+<img width="892" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/ee1bc3c5-00ec-45c9-817a-a01b298c4b1f">
