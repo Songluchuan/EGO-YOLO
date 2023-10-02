@@ -21,3 +21,11 @@ The origin YOLO results:
 
 
 *Moreover, we show the real-world (real headset videos) comparison results for reference:*
+
+
+The pretrained results:
+<img width="844" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/f9c613dd-19cb-424e-a63c-5103ba2f0feb">
+
+
+The origin YOLO results:
+<img width="849" alt="image" src="https://github.com/Songluchuan/EGO-YOLO/assets/42260891/2ed4d9ba-2405-4afe-8e55-64e3cfbb180b">
